@@ -119,6 +119,12 @@ Projeto de banco de dados para gerenciamento de eventos, participantes, atendent
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-mariaeduardaguerra-171015?style=for-the-badge&logo=github)](https://github.com/mariaeduardaguerra)
+[![Email](https://img.shields.io/badge/Email-dudaguerrapro%40gmail.com-8B3A52?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dudaguerrapro@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Maria_Eduarda_Guerra-8B3A52?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/maria-eduarda-c%C3%A2ndido-alves-guerra-ba4016232)
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-(31)_99178--9948-8B3A52?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5531991789948)
+
+[![GitHub](https://img.shields.io/badge/GitHub-mariaeduardaguerra-171015?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mariaeduardaguerra)
 
 </div>
