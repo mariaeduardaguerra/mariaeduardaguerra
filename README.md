@@ -2,7 +2,7 @@
 
 # Olá, eu sou a Maria Eduarda Guerra👋
 
-### Analista de Suporte Nível II • Estudante de ADS • Desenvolvedora em formação
+### Líder de Atendimento em TI • Estudante de ADS • Desenvolvedora em formação
 
 Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas e atuo com suporte técnico, atendimento e resolução de problemas. Desenvolvo projetos web, mobile, APIs, bancos de dados e testes automatizados.
 
