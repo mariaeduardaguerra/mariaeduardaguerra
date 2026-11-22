@@ -19,8 +19,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na PUC Minas e atuo com 
 - 💻 Interesse em desenvolvimento Full Stack, qualidade de software e banco de dados
 - 🌎 Inglês B2 — Cambridge English
 - 📚 Atualmente estudando React, TypeScript, Node.js, SQL e desenvolvimento mobile
-- ✨ Gosto de transformar necessidades reais em aplicações simples e organizadas
-
+  
 ---
 
 ## Tecnologias e ferramentas
