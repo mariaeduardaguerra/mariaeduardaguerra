@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou Maria Eduarda 👋
+# Olá, eu sou a Maria Eduarda Guerra👋
 
 ### Analista de Suporte Nível II • Estudante de ADS • Desenvolvedora em formação
 
